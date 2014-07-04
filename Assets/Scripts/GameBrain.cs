@@ -7,7 +7,7 @@ public class GameBrain : MonoBehaviour {
 	void Start () {
 
 		{
-		GameObject prefab=Resources.Load ("Stuff/Cube") as GameObject;
+		GameObject prefab=Resources.Load ("Cube") as GameObject;
 		for (int i=0;i<100;i++){
 			GameObject go=Instantiate(prefab) as GameObject;
 			go.transform.position=new Vector3(0,i*5,0);
