@@ -5,8 +5,6 @@ Project("{E39C5E2C-4E13-287F-0AF7-764B23F09E57}") = "22_UnityTutorial_Zedtech", 
 EndProject
 Project("{E39C5E2C-4E13-287F-0AF7-764B23F09E57}") = "22_UnityTutorial_Zedtech", "Assembly-CSharp.csproj", "{7E3B9C19-CBA1-3AB2-24C2-33B1469691BC}"
 EndProject
-Project("{E39C5E2C-4E13-287F-0AF7-764B23F09E57}") = "22_UnityTutorial_Zedtech", "Assembly-UnityScript.unityproj", "{D71143BE-7F06-6F79-FEC6-98240F4F319D}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,15 +19,11 @@ Global
 		{7E3B9C19-CBA1-3AB2-24C2-33B1469691BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E3B9C19-CBA1-3AB2-24C2-33B1469691BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E3B9C19-CBA1-3AB2-24C2-33B1469691BC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D71143BE-7F06-6F79-FEC6-98240F4F319D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D71143BE-7F06-6F79-FEC6-98240F4F319D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D71143BE-7F06-6F79-FEC6-98240F4F319D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D71143BE-7F06-6F79-FEC6-98240F4F319D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-						GlobalSection(MonoDevelopProperties) = preSolution
+										GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1

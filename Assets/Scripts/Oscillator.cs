@@ -13,10 +13,10 @@ public class Oscillator : MonoBehaviour
 
 
 		GameObject prefab = Resources.Load ("Stuff/SphereLight") as GameObject;
-		for (int ix= -10; ix<10; ix++) {
-			for (int iy= -10; iy<10; iy++) {
+		for (int ix= -20; ix<20; ix++) {
+			for (int iy= -20; iy<20; iy++) {
 				GameObject go = Instantiate (prefab) as GameObject;
-				go.transform.position = new Vector3 (ix, iy, 0);
+				go.transform.position = new Vector3 (ix / 2, iy / 2, 0);
 			}
 		}
 

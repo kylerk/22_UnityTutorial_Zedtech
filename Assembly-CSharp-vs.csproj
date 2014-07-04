@@ -50,8 +50,10 @@
      <Compile Include="Assets\Scripts\FPSInputController.cs" />
      <Compile Include="Assets\Scripts\GameBrain.cs" />
      <Compile Include="Assets\Scripts\GameTimer.cs" />
+     <Compile Include="Assets\Scripts\HideCursor.cs" />
      <Compile Include="Assets\Scripts\Oscillator.cs" />
      <Compile Include="Assets\Scripts\ScreenLocker.cs" />
+     <Compile Include="Assets\Scripts\ShootSpear.cs" />
      <Compile Include="Assets\Scripts\SphereCtrl.cs" />
   </ItemGroup>
   <ItemGroup>
