@@ -15,8 +15,12 @@ public class HideCursor : MonoBehaviour
 		// Update is called once per frame
 		void Update ()
 		{
-	
+				
 				if (Input.GetKeyDown (KeyCode.Escape)) {
+						Screen.showCursor = !Screen.showCursor;
+						Screen.lockCursor = !Screen.lockCursor;
+				}
+				if (Input.GetKeyDown (KeyCode.F1)) {
 						Screen.showCursor = !Screen.showCursor;
 						Screen.lockCursor = !Screen.lockCursor;
 				}
