@@ -11,12 +11,14 @@ public class ShootSpear : MonoBehaviour
 	{
 		prefab = Resources.Load ("Speer") as GameObject;
 		prefab2 = Resources.Load ("tumbler") as GameObject;
+		GameVariables.ammunition = 10;
 	}
 	
 	// Update is called once per frame
 	void Update ()
 	{
-		if (Input.GetMouseButtonDown (0)) {
+		if (Input.GetMouseButtonDown (0) && GameVariables.ammunition > 0) {
+			GameVariables.ammunition--;
 			GameObject projectile = Instantiate (prefab) as GameObject;
 			projectile.transform.position = transform.position + Camera.main.transform.forward * 2;
 			projectile.transform.rotation = transform.rotation;
