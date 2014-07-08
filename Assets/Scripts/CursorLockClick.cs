@@ -8,7 +8,7 @@ public class CursorLockClick : MonoBehaviour
 	void Start ()
 	{
 		Screen.lockCursor = true;
-		guiTexture.enabled = false;
+		guiTexture.enabled = true;
 		
 	}
 
