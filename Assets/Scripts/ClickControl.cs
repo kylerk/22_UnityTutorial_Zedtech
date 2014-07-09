@@ -5,6 +5,12 @@ public class ClickControl : MonoBehaviour
 {
 
 	private float range = 10;
+	private GameObject clickReceiverParent;
+
+	void Start ()
+	{
+		clickReceiverParent = GameObject.Find ("ClickReceiverParent");
+	}
 
 	void Update ()
 	{
@@ -18,7 +24,7 @@ public class ClickControl : MonoBehaviour
 				ClickTransmitter ct = hitObject.GetComponent<ClickTransmitter> ();
 
 				if (ct != null) {
-					foreach (ClickReceiver cr in FindObjectsOfType<ClickReceiver>())
+					foreach (ClickReceiver cr in clickReceiverParent.GetComponentsInChildren<ClickReceiver>())
 						if (cr.radioFrequency == ct.radioFrequency)
 							cr.activate ();
 				}

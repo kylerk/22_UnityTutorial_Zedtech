@@ -81,7 +81,7 @@ public class ClickReceiver : MonoBehaviour
 
 		if (clickAction.destroy)
 			Destroy (gameObject);
-
+		Debug.Log ("ithappened!");
 
 
 
