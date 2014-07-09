@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: 42f14a0a677d0344cac5b02a9b0815d2
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spriteGuy00016
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 12
+        width: 38
+        height: 90
+      alignment: 9
+      pivot: {x: .447368413, y: 1.17777777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGuy00015
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 16
+        width: 68
+        height: 64
+      alignment: 9
+      pivot: {x: .470588237, y: 1.640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGuy00014
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 18
+        width: 60
+        height: 86
+      alignment: 9
+      pivot: {x: .5, y: 1.23255813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGuy00011
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 114
+        width: 36
+        height: 130
+      alignment: 9
+      pivot: {x: .444444448, y: .807692289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGuy00008
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 244
+        width: 36
+        height: 132
+      alignment: 9
+      pivot: {x: .333333343, y: .810606062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGuy00007
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 240
+        width: 34
+        height: 134
+      alignment: 9
+      pivot: {x: .323529422, y: .813432813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGuy00012
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 246
+        width: 42
+        height: 130
+      alignment: 9
+      pivot: {x: .452380955, y: .815384626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGuy00010
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 112
+        width: 44
+        height: 130
+      alignment: 9
+      pivot: {x: .454545468, y: .807692289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGuy00013
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 394
+        width: 62
+        height: 116
+      alignment: 9
+      pivot: {x: .435483873, y: .913793087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGuy00017
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2
+        width: 72
+        height: 108
+      alignment: 9
+      pivot: {x: .597222209, y: .972222209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGuy00000
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 104
+        width: 46
+        height: 134
+      alignment: 9
+      pivot: {x: .456521749, y: .798507452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGuy00002
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 240
+        width: 46
+        height: 134
+      alignment: 9
+      pivot: {x: .478260875, y: .798507452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGuy00001
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 376
+        width: 46
+        height: 134
+      alignment: 9
+      pivot: {x: .456521749, y: .798507452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGuy00009
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 106
+        width: 50
+        height: 132
+      alignment: 9
+      pivot: {x: .340000004, y: .810606062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGuy00006
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 378
+        width: 52
+        height: 132
+      alignment: 9
+      pivot: {x: .442307681, y: .818181813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGuy00003
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 82
+        width: 58
+        height: 134
+      alignment: 9
+      pivot: {x: .482758611, y: .813432813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGuy00004
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 376
+        width: 62
+        height: 134
+      alignment: 9
+      pivot: {x: .467741936, y: .820895493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGuy00019
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 348
+        width: 38
+        height: 162
+      alignment: 9
+      pivot: {x: .526315808, y: .623456776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGuy00018
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 354
+        width: 44
+        height: 156
+      alignment: 9
+      pivot: {x: .477272719, y: .647435904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGuy00021
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 50
+        width: 64
+        height: 136
+      alignment: 9
+      pivot: {x: .546875, y: .808823526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGuy00020
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 188
+        width: 46
+        height: 158
+      alignment: 9
+      pivot: {x: .521739125, y: .639240503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spriteGuy00005
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 218
+        width: 70
+        height: 134
+      alignment: 9
+      pivot: {x: .45714286, y: .813432813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
