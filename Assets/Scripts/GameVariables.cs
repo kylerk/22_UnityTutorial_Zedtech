@@ -6,4 +6,5 @@ public class GameVariables
 	public static int ammunition;
 	public static Vector3 checkpoint;
 	public static float keyDisplayTime;
+	public static int keyCount;
 }

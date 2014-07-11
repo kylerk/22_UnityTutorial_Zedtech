@@ -1,6 +1,6 @@
 //Maya ASCII 2012 scene
 //Name: RobotHand.ma
-//Last modified: Thu, Jul 10, 2014 10:15:00 PM
+//Last modified: Thu, Jul 10, 2014 10:43:38 PM
 //Codeset: 1252
 requires maya "2012";
 currentUnit -l centimeter -a degree -t film;
@@ -369,6 +369,8 @@ select -ne :hardwareRenderGlobals;
 select -ne :defaultHardwareRenderGlobals;
 	setAttr ".fn" -type "string" "im";
 	setAttr ".res" -type "string" "ntsc_4d 646 485 1.333";
+select -ne :ikSystem;
+	setAttr -s 4 ".sol";
 connectAttr "polySoftEdge2.out" "pCubeShape1.i";
 relationship "link" ":lightLinker1" ":initialShadingGroup.message" ":defaultLightSet.message";
 relationship "link" ":lightLinker1" ":initialParticleSE.message" ":defaultLightSet.message";
