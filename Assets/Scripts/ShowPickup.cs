@@ -22,7 +22,7 @@ public class ShowPickup : MonoBehaviour
 			GameVariables.keyDisplayTime -= Time.deltaTime;
 
 		}
-		Debug.Log (GameVariables.keyDisplayTime);
+		//	Debug.Log (GameVariables.keyDisplayTime);
 
 	}
 	void OnGUI ()
