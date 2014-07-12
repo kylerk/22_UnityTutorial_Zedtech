@@ -1,0 +1,486 @@
+fileFormatVersion: 2
+guid: 3d40de6c6f3c301489fed3d5212b656c
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: FaceRig.0001
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 214
+        width: 58
+        height: 32
+      alignment: 9
+      pivot: {x: .396551728, y: 2.34375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0002
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 124
+        width: 54
+        height: 24
+      alignment: 9
+      pivot: {x: .407407403, y: 3.16666675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0003
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 106
+        width: 60
+        height: 16
+      alignment: 9
+      pivot: {x: .400000006, y: 4.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0004
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 106
+        width: 52
+        height: 14
+      alignment: 9
+      pivot: {x: .384615391, y: 5.35714293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0005
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 84
+        width: 48
+        height: 8
+      alignment: 9
+      pivot: {x: .416666657, y: 8.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0006
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 94
+        width: 50
+        height: 10
+      alignment: 9
+      pivot: {x: .379999995, y: 7.0999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0007
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 84
+        width: 52
+        height: 20
+      alignment: 9
+      pivot: {x: .365384609, y: 3.79999995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0008
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 50
+        width: 54
+        height: 12
+      alignment: 9
+      pivot: {x: .351851851, y: 5.91666651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0009
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 64
+        width: 54
+        height: 18
+      alignment: 9
+      pivot: {x: .407407403, y: 4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0010
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 182
+        width: 52
+        height: 30
+      alignment: 9
+      pivot: {x: .384615391, y: 2.66666675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0011
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 150
+        width: 48
+        height: 30
+      alignment: 9
+      pivot: {x: .4375, y: 2.5999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0012
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 44
+        height: 36
+      alignment: 9
+      pivot: {x: .409090906, y: 2.33333325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0013
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 90
+        width: 26
+        height: 52
+      alignment: 9
+      pivot: {x: 2.26923084, y: -.326923072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0014
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 52
+        width: 26
+        height: 44
+      alignment: 9
+      pivot: {x: 2.15384626, y: -.454545468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0015
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 214
+        width: 28
+        height: 32
+      alignment: 9
+      pivot: {x: 1.92857146, y: -.6875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0016
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 54
+        width: 32
+        height: 28
+      alignment: 9
+      pivot: {x: 1.8125, y: -.785714269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0017
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 22
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 1.93333328, y: -.846153855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0018
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 54
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 1.93333328, y: -.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0019
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 24
+        width: 32
+        height: 24
+      alignment: 9
+      pivot: {x: 1.84375, y: -.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0020
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 84
+        width: 32
+        height: 20
+      alignment: 9
+      pivot: {x: 1.6875, y: -1.10000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0021
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 126
+        width: 30
+        height: 22
+      alignment: 9
+      pivot: {x: 1.79999995, y: -.954545438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0022
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2
+        width: 28
+        height: 18
+      alignment: 9
+      pivot: {x: 1.85714281, y: -1.44444442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0023
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 42
+        width: 26
+        height: 46
+      alignment: 9
+      pivot: {x: -1.11538458, y: -.478260875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0024
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 98
+        width: 22
+        height: 46
+      alignment: 9
+      pivot: {x: -1.31818187, y: -.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0025
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 106
+        width: 20
+        height: 40
+      alignment: 9
+      pivot: {x: -1.45000005, y: -.574999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0026
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 46
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: -1.66666663, y: -.638888896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0027
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 14
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: -1.66666663, y: -.638888896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0028
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 12
+        width: 20
+        height: 32
+      alignment: 9
+      pivot: {x: -1.39999998, y: -.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0029
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 24
+        width: 24
+        height: 28
+      alignment: 9
+      pivot: {x: -1.08333337, y: -.785714269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0030
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 30
+        width: 32
+        height: 22
+      alignment: 9
+      pivot: {x: -.6875, y: -1.0454545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0031
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 122
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: -.647058845, y: -1.20000005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0032
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 170
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: -.647058845, y: -1.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0033
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 192
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: -.617647052, y: -1.20000005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0034
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 144
+        width: 36
+        height: 24
+      alignment: 9
+      pivot: {x: -.583333313, y: -.916666687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0035
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2
+        width: 26
+        height: 26
+      alignment: 9
+      pivot: {x: -.884615362, y: -.961538434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0036
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 40
+        width: 14
+        height: 102
+      alignment: 9
+      pivot: {x: .357142866, y: .392156869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0037
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 148
+        width: 12
+        height: 98
+      alignment: 9
+      pivot: {x: 0, y: .397959173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0038
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 154
+        width: 14
+        height: 92
+      alignment: 9
+      pivot: {x: .285714298, y: .423913032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0039
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 146
+        width: 12
+        height: 100
+      alignment: 9
+      pivot: {x: .166666672, y: .389999986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0040
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 146
+        width: 14
+        height: 100
+      alignment: 9
+      pivot: {x: .214285716, y: .400000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0041
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 150
+        width: 12
+        height: 96
+      alignment: 9
+      pivot: {x: .0833333358, y: .416666657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0042
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 148
+        width: 14
+        height: 98
+      alignment: 9
+      pivot: {x: .142857149, y: .397959173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0043
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 144
+        width: 18
+        height: 102
+      alignment: 9
+      pivot: {x: .111111112, y: .392156869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FaceRig.0044
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 152
+        width: 16
+        height: 94
+      alignment: 9
+      pivot: {x: 0, y: .425531924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
