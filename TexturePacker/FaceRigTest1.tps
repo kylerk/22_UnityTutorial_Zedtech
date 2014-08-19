@@ -38,7 +38,7 @@
         <key>dataFormat</key>
         <string>unity-texture2d</string>
         <key>textureFileName</key>
-        <filename></filename>
+        <filename>FaceRigTest/faceRig2.png</filename>
         <key>flipPVR</key>
         <false/>
         <key>ditherType</key>
@@ -136,7 +136,7 @@
             <key>datafile</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename></filename>
+                <filename>FaceRigTest/faceRig2.tpsheet</filename>
             </struct>
         </map>
         <key>multiPack</key>
@@ -169,7 +169,7 @@
             <key>trimThreshold</key>
             <uint>1</uint>
             <key>trimMode</key>
-            <enum type="SpriteSettings::TrimMode">Crop</enum>
+            <enum type="SpriteSettings::TrimMode">CropKeepPos</enum>
             <key>heuristicMask</key>
             <false/>
             <key>pivotPoint</key>

@@ -5,8 +5,8 @@ public class CursorLockClick : MonoBehaviour
 {	
 	void OnGUI ()
 	{
-		GUILayout.Button ("Press Me!");
-		Debug.Log ("id: " + GUIUtility.hotControl);
+		//GUILayout.Button ("Press Me!");
+		//Debug.Log ("id: " + GUIUtility.hotControl);
 	}
 	// Use this for initialization
 	void Start ()
