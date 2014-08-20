@@ -17,7 +17,7 @@ public class ShootSpear : MonoBehaviour
 	// Update is called once per frame
 	void Update ()
 	{
-		if (Input.GetMouseButtonDown (0) && GameVariables.ammunition > 0) {
+		if (Input.GetButtonDown ("Fire1") && GameVariables.ammunition > 0) {
 			GameVariables.ammunition--;
 			GameObject projectile = Instantiate (prefab) as GameObject;
 			projectile.transform.position = transform.position + Camera.main.transform.forward * 2;
@@ -29,7 +29,7 @@ public class ShootSpear : MonoBehaviour
 
 		}
 
-		if (Input.GetMouseButtonDown (1)) {
+		if (Input.GetButtonDown ("Fire2")) {
 			GameObject projectile = Instantiate (prefab2) as GameObject;
 			projectile.transform.position = transform.position + Camera.main.transform.forward * 2;
 			projectile.transform.rotation = transform.rotation;
